@@ -193,7 +193,7 @@ export default function App() {
         viewport={{ once: true, amount: 0.2 }}
         transition={{ duration: 0.6 }}
       >
-        <p className="invite-message">We cordially invite you to grace the auspicious wedding ceremony of Akshat and Samiksha. Your presence and blessings will make the occasion truly special. 🙏🏽</p>
+        <p className="invite-message">We cordially invite you to grace the auspicious wedding ceremony of Samiksha and Akshat. Your presence and blessings will make the occasion truly special. 🙏🏽</p>
         <h3>Godha Family</h3>
         <div className="address centered">
           <h4>RSVP</h4>

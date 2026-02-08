@@ -7,7 +7,7 @@ export default function Landing() {
 		if (next) next.scrollIntoView({ behavior: 'smooth' })
 	}
 
-	const title = "Akshat weds Samiksha"
+	const title = "Samiksha weds Akshat"
 	const letters = title.split("")
 
 	const containerVariants = {
