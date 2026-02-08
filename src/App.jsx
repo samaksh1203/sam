@@ -35,8 +35,8 @@ export default function App() {
     {
       key: 'mayra',
       title: 'Mayra',
-      date: '12 Mar 2026',
-      time: '9:00 AM onwards',
+      date: '11 Mar 2026',
+      time: '4:00 PM onwards',
       note: 'Dress code: Red & Whites / Red Chunri',
       img: 'mayra.jpg'
     },
