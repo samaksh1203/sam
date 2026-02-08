@@ -74,9 +74,8 @@ export default function App() {
   }
 
   const contacts = [
-    { name: 'Sunil Patni', phone: '8603110392' },
-    { name: 'Deepak Jain', phone: '9260996515' },
-    { name: 'Khsuhal Jain', phone: '7209716023' }
+    { name: 'Rajesh Godha', phone: '9767885223' },
+    { name: 'Brajesh Godha', phone: '9423711551' }
   ]
 
   const parents = {
@@ -195,7 +194,7 @@ export default function App() {
         transition={{ duration: 0.6 }}
       >
         <p className="invite-message">We cordially invite you to grace the auspicious wedding ceremony of Akshat and Samiksha. Your presence and blessings will make the occasion truly special. 🙏🏽</p>
-        <h3>Patni Family</h3>
+        <h3>Godha Family</h3>
         <div className="address centered">
           <h4>RSVP</h4>
           {contacts.map(c => (
