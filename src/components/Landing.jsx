@@ -16,9 +16,7 @@ export default function Landing() {
     'cover1.jpg',
     
     'cover3.jpg',
-    'cover2.jpg',
-    'cover4.jpg',
-    'cover5.jpg'
+    'cover2.jpg'
   ]
 
   const [index, setIndex] = useState(0)
