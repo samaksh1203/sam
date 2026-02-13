@@ -18,7 +18,7 @@ export default function App() {
   const events = [
     {
       key: 'phoolon',
-      title: 'Phoolon ki Haldi',
+      title: 'Phoolon ki Haldi and Carnival',
       date: '11 Mar 2026',
       time: '11:00 AM onwards',
       note: 'Dress code: Floral and pop colors',
@@ -75,7 +75,8 @@ export default function App() {
 
   const contacts = [
     { name: 'Rajesh Godha', phone: '9767885223' },
-    { name: 'Brijesh Godha', phone: '9423711551' }
+    { name: 'Brijesh Godha', phone: '9423711551' },
+    { name: 'Vaishali Godha', phone: '8483989832' }
   ]
 
   const parents = {
