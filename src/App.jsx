@@ -25,20 +25,20 @@ export default function App() {
       img: 'haldi.jpg'
     },
     {
-      key: 'mehfil',
-      title: 'Mehfil-e-Sangeet',
-      date: '11 Mar 2026',
-      time: '7:00 PM onwards',
-      note: 'Dress code: Glitters and Glams / Indo-Western',
-      img: 'mehfil.jpg'
-    },
-    {
       key: 'mayra',
       title: 'Mayra',
       date: '11 Mar 2026',
       time: '4:00 PM onwards',
       note: 'Dress code: Red & Whites / Red Chunri',
       img: 'mayra.jpg'
+    },
+    {
+      key: 'mehfil',
+      title: 'Sangeet under the stars',
+      date: '11 Mar 2026',
+      time: '7:00 PM onwards',
+      note: 'Dress code: Glitters and Glams / Indo-Western',
+      img: 'mehfil.jpg'
     },
     {
       key: 'baraat',
